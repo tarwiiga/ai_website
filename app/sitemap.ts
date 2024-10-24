@@ -1,7 +1,7 @@
 import type { MetadataRoute } from 'next'
 import {allBlogs} from "../.contentlayer/generated";
 
-const BASE_URL = "https://tarwiiga.com"
+const BASE_URL = "https://ai.tarwiiga.com"
 
 export default function sitemap(): MetadataRoute.Sitemap {
 
